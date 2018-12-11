@@ -3,20 +3,20 @@
 cls
 mode con: cols=200 lines=200
 echo Testing Graphic...
-echo Û²±°
+echo Å°Ë›Ä…Â°
 ping localhost -n 2 >nul
-echo ÛÛ²²
+echo Å°Å°Ë›Ë›
 call C:\pixbios\bios.bat
 ping localhost -n 1 >nul
 cls
-echo      ÛÛÛÛÛÛÛ   Û    Û      Û   ÛÛÛÛÛÛÛÛ   Û                      ²²²²²²²  
-echo      Û     Û         Û    Û    Û          Û                      ÛÛÛ²²²²²²
-echo      Û     Û   Û      Û  Û     Û          Û                      Û  ÛÛÛÛ²²
-echo      ÛÛÛÛÛÛÛ   Û       ÛÛ      Û          Û                      Û      ÛÛ
-echo      Û         Û       ÛÛ      ÛÛÛÛÛÛ     Û                      Û Pixel Û
-echo      Û         Û      Û  Û     Û          Û                      Û       Û
-echo      Û         Û     Û    Û    Û          Û                      Û       Û
-echo      Û         Û    Û      Û   ÛÛÛÛÛÛÛÛ   ÛÛÛÛÛÛÛÛ               ÛÛÛÛÛÛÛÛÛ
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°                      Ë›Ë›Ë›Ë›Ë›Ë›Ë›  
+echo      Å°     Å°         Å°    Å°    Å°          Å°                      Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›
+echo      Å°     Å°   Å°      Å°  Å°     Å°          Å°                      Å°  Å°Å°Å°Å°Ë›Ë›
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°       Å°Å°      Å°          Å°                      Å°      Å°Å°
+echo      Å°         Å°       Å°Å°      Å°Å°Å°Å°Å°Å°     Å°                      Å° Pixel Å°
+echo      Å°         Å°      Å°  Å°     Å°          Å°                      Å°       Å°
+echo      Å°         Å°     Å°    Å°    Å°          Å°                      Å°       Å°
+echo      Å°         Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°Å°Å°Å°Å°Å°Å°Å°               Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo                                                                   Powered by
 echo                  Bios Revision 1.1.0_3                          Pixel Nightblade
 echo                                                                     Processor
@@ -28,32 +28,32 @@ echo Virtual CD - 0
 echo Virtual Floppy - 1
 ping localhost -n 3 >nul
 cls
-echo      ÛÛÛÛÛÛÛ   Û    Û      Û   ÛÛÛÛÛÛÛÛ   Û                      ²²²²²²²  
-echo      Û     Û         Û    Û    Û          Û                      ÛÛÛ²²²²²²
-echo      Û     Û   Û      Û  Û     Û          Û                      Û  ÛÛÛÛ²²
-echo      ÛÛÛÛÛÛÛ   Û       ÛÛ      Û          Û                      Û      ÛÛ
-echo      Û         Û       ÛÛ      ÛÛÛÛÛÛ     Û                      Û Pixel Û
-echo      Û         Û      Û  Û     Û          Û                      Û       Û
-echo      Û         Û     Û    Û    Û          Û                      Û       Û
-echo      Û         Û    Û      Û   ÛÛÛÛÛÛÛÛ   ÛÛÛÛÛÛÛÛ               ÛÛÛÛÛÛÛÛÛ
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°                      Ë›Ë›Ë›Ë›Ë›Ë›Ë›  
+echo      Å°     Å°         Å°    Å°    Å°          Å°                      Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›
+echo      Å°     Å°   Å°      Å°  Å°     Å°          Å°                      Å°  Å°Å°Å°Å°Ë›Ë›
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°       Å°Å°      Å°          Å°                      Å°      Å°Å°
+echo      Å°         Å°       Å°Å°      Å°Å°Å°Å°Å°Å°     Å°                      Å° Pixel Å°
+echo      Å°         Å°      Å°  Å°     Å°          Å°                      Å°       Å°
+echo      Å°         Å°     Å°    Å°    Å°          Å°                      Å°       Å°
+echo      Å°         Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°Å°Å°Å°Å°Å°Å°Å°               Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo                                                                   Powered by
 echo                  Bios Revision 1.1.0_3                          Pixel Nightblade
 echo                                                                     Processor
 echo.
 echo Weep Gaming - 2018
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ  Press 1 to continue with this choice
-echo Û    ÛÛÛÛ²ÛÛÛÛÛ     Boot into:             Û
-echo Û    Û   ²²   Û   Pixel VHD [Disk -1]      Û
-echo Û    Û²²²²²²  Û                            Û                   
-echo Û    Û   ²²   Û                            Û
-echo Û    ÛÛÛÛ²ÛÛÛÛÛ   Pixel OS - Batch         Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û Pixel Troubleshoot    Û Manage Virtual   Û  Press 2 for troubleshooting
-echo Û Engine                Û Disks            Û  Press 3 to manage Virtual Disks
-echo Û                       Û                  Û  
-echo Û                       Û                  Û 
-echo Û                       Û                  Û 
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°  Press 1 to continue with this choice
+echo Å°    Å°Å°Å°Å°Ë›Å°Å°Å°Å°Å°     Boot into:             Å°
+echo Å°    Å°   Ë›Ë›   Å°   Pixel VHD [Disk -1]      Å°
+echo Å°    Å°Ë›Ë›Ë›Ë›Ë›Ë›  Å°                            Å°                   
+echo Å°    Å°   Ë›Ë›   Å°                            Å°
+echo Å°    Å°Å°Å°Å°Ë›Å°Å°Å°Å°Å°   Pixel OS - Batch         Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° Pixel Troubleshoot    Å° Manage Virtual   Å°  Press 2 for troubleshooting
+echo Å° Engine                Å° Disks            Å°  Press 3 to manage Virtual Disks
+echo Å°                       Å°                  Å°  
+echo Å°                       Å°                  Å° 
+echo Å°                       Å°                  Å° 
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo                                                                 Internal Time= %time% %Date%
 echo bt= System Information
 if exist C:\pixbios\biosauto.txt goto p1
@@ -119,6 +119,10 @@ cls
 echo     Pixel
 echo ------==-------
 ping localhost -n 1 >nul
+cls
+cls
+echo This is the GITHUB version. I hope people had a good time modifying it!
+pause >nul
 cls
 echo     Pixel
 echo --------==-----
@@ -552,86 +556,86 @@ echo   %b71%%b72%%b73%%b74%%b75%%b76%%b77%%b78%%b79%%b80%
 echo   %b81%%b82%%b83%%b84%%b85%%b86%%b87%%b88%%b89%%b90%   User logged in:
 echo   %b91%%b92%%b93%%b94%%b95%%b96%%b97%%b98%%b99%%b100%   %unamel%
 echo                           QUICK PANEL
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û 1. Date and time      Û 6. Settings      Û 11. Pixel Store      Û
-echo Û 2. Games Library      Û 7. Command List  Û 12. Launcher         Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û 3. Quick Links        Û 8. Programs Mode Û 13. System specs     Û    Û POWER       ²²²²²Û
-echo Û 4. Text Document R/W  Û 9. File Mode     Û 14. Operating Syste..Û    Û20. Shutdown     ²Û
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° 1. Date and time      Å° 6. Settings      Å° 11. Pixel Store      Å°
+echo Å° 2. Games Library      Å° 7. Command List  Å° 12. Launcher         Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° 3. Quick Links        Å° 8. Programs Mode Å° 13. System specs     Å°    Å° POWER       Ë›Ë›Ë›Ë›Ë›Å°
+echo Å° 4. Text Document R/W  Å° 9. File Mode     Å° 14. Operating Syste..Å°    Å°20. Shutdown     Ë›Å°
 if not exist C:\pixeldisk ping localhost -n 5 >nul
-echo Û 5. Empty              Û 10. Directory L..Û 15. Modifications    Û    Û21. Restart       Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ    Û27. Stand By      Û
-echo Û 16. RAM usage         Û[19] Update Log   Û[11]  Store           Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û 17. Creator Info      Û       ²          Û       ²²²²           Û
+echo Å° 5. Empty              Å° 10. Directory L..Å° 15. Modifications    Å°    Å°21. Restart       Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°    Å°27. Stand By      Å°
+echo Å° 16. RAM usage         Å°[19] Update Log   Å°[11]  Store           Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° 17. Creator Info      Å°       Ë›          Å°       Ë›Ë›Ë›Ë›           Å°
 if not exist C:\pixeldisk ping localhost -n 3 >nul
-echo Û 18. Run menu          Û  ²  ²²²²²  ²     Û    Û²²Û²²Û²²²        Û
-echo Û 20. shutdown          Û   ²   ²   ²      Û    ÛÛ²ÛÛ²ÛÛ²²        Û
+echo Å° 18. Run menu          Å°  Ë›  Ë›Ë›Ë›Ë›Ë›  Ë›     Å°    Å°Ë›Ë›Å°Ë›Ë›Å°Ë›Ë›Ë›        Å°
+echo Å° 20. shutdown          Å°   Ë›   Ë›   Ë›      Å°    Å°Å°Ë›Å°Å°Ë›Å°Å°Ë›Ë›        Å°
 if not exist C:\pixeldisk ping localhost -n 2 >nul
 if not exist C:\pixeldisk goto error66d
-echo Û 21. restart           Û    ²     ²       Û    Û²²Û²²Û²²²        Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ    Û33. Reset         Û
-echo Û[20]      ²            Û 22. Disk         Û[12] ²      ²     ²   Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û        ²²²²²          Û 23. Session ID   Û     ²     ²²²    ²   Û
-echo Û       ²  ²  ²         Û 24. Game Library Û     Û    ²²²²²   ²   Û     
-echo Û       ²     ²         Û 25. Calculator   Û     ²      ²     ²   Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û        ²²²²²   Off    Û 26. Gallery      Û Downloads Launcher   Û    Û Drives      ²²²²²Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ    Û35. Launch Other ²Û
-echo Û[28]  ²±±±±±± ²        ²[29]   ÛÛ         ² 30. Movie Maker      Û    Û    Program       Û
-echo Û      ²±±±±   ²        ²       ÛÛÛ Û      ² 31. Credits          Û    Û                  Û
-echo Û      ²   ±±±±²        ²       ÛÛ  ÛÛ Û   ²                      Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û      ²       ²        ²       Û   Û  Û   ²                      Û
-echo Û      Notepad July 2018²  All Programs    ²                      Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û[32] Safety Bytes      Û[34] Command Cen..Û[36] Pixel SafeSurf  ÛÛ
-echo Û     ```/:-`           Û  ÛÛÛ  Û     Û    Û     ÛÛ     ÛÛ     ÛÛ Û
-echo Û     ..:ho/-           Û  Û         Û     Û   ÛÛ     ÛÛ     ÛÛ   Û
-echo Û     `/oy+-`           Û  Û        Û      Û ÛÛ     ÛÛ     ÛÛ     Û
-echo Û       .--             Û  ÛÛÛ  Û  Û       ÛInternet     ÛÛ       Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û[37] Pixel²Play Dashb..Û[38] Pixel Paint  Û 39. User Editior     Û
-echo Û    ÛÛÛÛÛ ²²           Û  Paint           Û 40. Graphics Driver..Û
-echo Û    Û   Û ²²²          Û   Paint    Pixel Û 35. Load unlisted p..Û
-echo Û    ÛÛÛÛÛ ²²  DashboardÛ    Paint         Û 41. File Explorer    Û
-echo Û    Û     ²            Û     Paint        Û 42. External Loader  Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å° 21. restart           Å°    Ë›     Ë›       Å°    Å°Ë›Ë›Å°Ë›Ë›Å°Ë›Ë›Ë›        Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°    Å°33. Reset         Å°
+echo Å°[20]      Ë›            Å° 22. Disk         Å°[12] Ë›      Ë›     Ë›   Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°        Ë›Ë›Ë›Ë›Ë›          Å° 23. Session ID   Å°     Ë›     Ë›Ë›Ë›    Ë›   Å°
+echo Å°       Ë›  Ë›  Ë›         Å° 24. Game Library Å°     Å°    Ë›Ë›Ë›Ë›Ë›   Ë›   Å°     
+echo Å°       Ë›     Ë›         Å° 25. Calculator   Å°     Ë›      Ë›     Ë›   Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°        Ë›Ë›Ë›Ë›Ë›   Off    Å° 26. Gallery      Å° Downloads Launcher   Å°    Å° Drives      Ë›Ë›Ë›Ë›Ë›Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°    Å°35. Launch Other Ë›Å°
+echo Å°[28]  Ë›Ä…Ä…Ä…Ä…Ä…Ä… Ë›        Ë›[29]   Å°Å°         Ë› 30. Movie Maker      Å°    Å°    Program       Å°
+echo Å°      Ë›Ä…Ä…Ä…Ä…   Ë›        Ë›       Å°Å°Å° Å°      Ë› 31. Credits          Å°    Å°                  Å°
+echo Å°      Ë›   Ä…Ä…Ä…Ä…Ë›        Ë›       Å°Å°  Å°Å° Å°   Ë›                      Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°      Ë›       Ë›        Ë›       Å°   Å°  Å°   Ë›                      Å°
+echo Å°      Notepad July 2018Ë›  All Programs    Ë›                      Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°[32] Safety Bytes      Å°[34] Command Cen..Å°[36] Pixel SafeSurf  Å°Å°
+echo Å°     ```/:-`           Å°  Å°Å°Å°  Å°     Å°    Å°     Å°Å°     Å°Å°     Å°Å° Å°
+echo Å°     ..:ho/-           Å°  Å°         Å°     Å°   Å°Å°     Å°Å°     Å°Å°   Å°
+echo Å°     `/oy+-`           Å°  Å°        Å°      Å° Å°Å°     Å°Å°     Å°Å°     Å°
+echo Å°       .--             Å°  Å°Å°Å°  Å°  Å°       Å°Internet     Å°Å°       Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°[37] PixelË›Play Dashb..Å°[38] Pixel Paint  Å° 39. User Editior     Å°
+echo Å°    Å°Å°Å°Å°Å° Ë›Ë›           Å°  Paint           Å° 40. Graphics Driver..Å°
+echo Å°    Å°   Å° Ë›Ë›Ë›          Å°   Paint    Pixel Å° 35. Load unlisted p..Å°
+echo Å°    Å°Å°Å°Å°Å° Ë›Ë›  DashboardÅ°    Paint         Å° 41. File Explorer    Å°
+echo Å°    Å°     Ë›            Å°     Paint        Å° 42. External Loader  Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 if exist C:\PixelE\buy9.txt (
-echo ÛÛÛPixelÛElementsÛMenuÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û[e1] Movie Maker 2.0   Û[e2] Gallery      Û                      Û
-echo Û ²²²²² ²²²²² ²²²²²²    Û                  Û                      Û
-echo Û ² ² ² ² ² ²      ²    Û Gallery          Û                      Û
-echo Û ² ² ² ² ² ² ²²²²²²    Û      "Movies"    Û                      Û
-echo Û ²   ² ²   ² ²         Û "Pictures"       Û                      Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°PixelÅ°ElementsÅ°MenuÅ°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°[e1] Movie Maker 2.0   Å°[e2] Gallery      Å°                      Å°
+echo Å° Ë›Ë›Ë›Ë›Ë› Ë›Ë›Ë›Ë›Ë› Ë›Ë›Ë›Ë›Ë›Ë›    Å°                  Å°                      Å°
+echo Å° Ë› Ë› Ë› Ë› Ë› Ë›      Ë›    Å° Gallery          Å°                      Å°
+echo Å° Ë› Ë› Ë› Ë› Ë› Ë› Ë›Ë›Ë›Ë›Ë›Ë›    Å°      "Movies"    Å°                      Å°
+echo Å° Ë›   Ë› Ë›   Ë› Ë›         Å° "Pictures"       Å°                      Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 )
                                                                           
 if exist C:\PixelE\buy10.txt (                                            
 echo.                                                                     
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ  
-echo Û[s1]  ÛÛ  ²²²² ² ²²² ²  ²                 ²²²²            Û  
-echo Û     Û °  ²      ²   ²  ²            ²       Û²²Û²²Û²²²       Û  
-echo Û    Û  °  ²²   ² ²²² ²²²²            ²      ÛÛ²ÛÛ²ÛÛ²²       Û  
-echo Û   Û   °  ²    ²   ² ²  ²             ²     Û²²Û²²Û²²²       Û  
-echo Û  Û    ²  ²    ² ²²² ²  ²               ²  From Pixel Store   Û  
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ  
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°  
+echo Å°[s1]  Å°Å°  Ë›Ë›Ë›Ë› Ë› Ë›Ë›Ë› Ë›  Ë›                 Ë›Ë›Ë›Ë›            Å°  
+echo Å°     Å° Â°  Ë›      Ë›   Ë›  Ë›            Ë›       Å°Ë›Ë›Å°Ë›Ë›Å°Ë›Ë›Ë›       Å°  
+echo Å°    Å°  Â°  Ë›Ë›   Ë› Ë›Ë›Ë› Ë›Ë›Ë›Ë›            Ë›      Å°Å°Ë›Å°Å°Ë›Å°Å°Ë›Ë›       Å°  
+echo Å°   Å°   Â°  Ë›    Ë›   Ë› Ë›  Ë›             Ë›     Å°Ë›Ë›Å°Ë›Ë›Å°Ë›Ë›Ë›       Å°  
+echo Å°  Å°    Ë›  Ë›    Ë› Ë›Ë›Ë› Ë›  Ë›               Ë›  From Pixel Store   Å°  
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°  
 )
 
 echo Enter "n" or "notify" to enter the notification menu.
-echo ÛÛNotificationsÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                                                Û
-echo ÛNotifications will appear here.                 Û
-echo Û                                                Û
+echo Å°Å°NotificationsÅ°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                                                Å°
+echo Å°Notifications will appear here.                 Å°
+echo Å°                                                Å°
 if exist C:\PixelE\nf1.bat call C:\PixelE\nf1.bat
 if exist C:\PixelE\nf2.bat call C:\PixelE\nf2.bat
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 
 echo.
 echo                   PIXEL PLAY ID
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  %userid%
-echo Û  Nickname is %ppn%
-echo Û  PC username is %unamel%
-echo Û  User card - %ppid%
-if exist C:\PixelE\platinum.txt echo Û  Platinum Membership Applied
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  %userid%
+echo Å°  Nickname is %ppn%
+echo Å°  PC username is %unamel%
+echo Å°  User card - %ppid%
+if exist C:\PixelE\platinum.txt echo Å°  Platinum Membership Applied
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 set L= 100
 set C= 249
 
@@ -1151,7 +1155,7 @@ echo Loading...
 ping localhost -n 4 >nul
 cls
 echo Directory Launch\Delete\Manager
-echo ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Which do you wanna do?
 echo 1= Open a file
 echo 2= View a directory's contents
@@ -1166,7 +1170,7 @@ goto drl
 :direc1
 cls
 echo Directory Opener
-echo ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Type EXIT to exit.
 set /p direct= Enter file directory= 
 if %direct%==EXIT goto drl
@@ -1175,7 +1179,7 @@ goto direc1
 :direc2
 cls
 echo Directory Contents Viewer
-echo ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Type EXIT to exit.
 set /p direct= Enter file directory= 
 if %direct%==EXIT goto drl
@@ -1185,7 +1189,7 @@ goto direc2
 :direc3
 cls
 echo Directory Deleter
-echo ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Type EXIT to exit.
 echo DELETED FILES CANNOT BE RECOVERED!!!
 set /p direct= Enter file directory= 
@@ -1345,119 +1349,119 @@ pause
 goto akstart
 :pixelinstallerend
 echo Installing...
-echo Û²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 echo.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Installing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo Please do not turn off the compuer or drive.
 ping localhost -n 4 >nul
 cls
 echo Finalizing...
-echo Û²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Finalizing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Finalizing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Finalizing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 echo (
-echo Û From: Pixel                                    Û
-echo Û (i) Pixel OS was successfully installed.       Û (%date%, %time%)
-echo Û Pixel OS was successfully installed to your    Û
-echo Û PC.                                            Û
-echo Û                                                Û
+echo Å° From: Pixel                                    Å°
+echo Å° (i) Pixel OS was successfully installed.       Å° (%date%, %time%)
+echo Å° Pixel OS was successfully installed to your    Å°
+echo Å° PC.                                            Å°
+echo Å°                                                Å°
 ) >> C:\PixelE\nf1.bat
 cls
 echo Finalizing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›
 echo Please do not turn off the compuer or drive.
 ping localhost -n 2 >nul
 cls
 echo Finalizing...
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo Please do not turn off the compuer or drive.
-set load=Û
+set load=Å°
 set /a num=0
 :loadforinspix
 cls
 echo Adding Certificates...
 echo.
 echo %load%%num%
-set load=%load%Û
+set load=%load%Å°
 set /a num=%num%+1
 if %num% gtr 110 goto contforpix
 ping localhost -n 1 >nul
@@ -1589,7 +1593,7 @@ echo valid >> C:\PixelE\Bootdata.txt
 echo @echo off                                                                                           
 echo cls                                                                                                 
 echo mode con: cols=100 lines=40                                                                         
-echo set load=Û                                                                                          
+echo set load=Å°                                                                                          
 echo set /a num=0                                                                                        
 echo :load                                                                                               
 echo cls                                                                                                 
@@ -1599,7 +1603,7 @@ echo echo.
 echo echo.                                                                                               
 echo echo.                                                                                               
 echo echo %load%%num%                                                                                    
-echo set load=%load%Û                                                                                    
+echo set load=%load%Å°                                                                                    
 echo set /a num=%num%+1                                                                                  
 echo if %num%==23 ping localhost -n 2 >nul                                                               
 echo if %num%==51 ping localhost -n 2 >nul                                                               
@@ -1640,7 +1644,7 @@ echo goto finish
 ping localhost -n 2 >nul
 cls
 echo installed.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo.
 echo Pixel Credits
 ping localhost -n 2 >nul
@@ -1712,10 +1716,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (0%)
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (0%)
 echo.       
 echo.
 echo.
@@ -1771,10 +1775,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (7%)
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (7%)
 echo.       
 echo.
 echo.
@@ -1830,10 +1834,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (13%)
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (13%)
 echo.       
 echo.
 echo.
@@ -1889,10 +1893,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (20%)
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (20%)
 echo.       
 echo.
 echo.
@@ -1948,10 +1952,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (29%)
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (29%)
 echo.       
 echo.
 echo.
@@ -2007,10 +2011,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (51%)
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (51%)
 echo.       
 echo.
 echo.
@@ -2067,10 +2071,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not boot.
-echo         Û        Missing resources.
-echo     Û    Û       Were collecting some error info for you. (100%) Done.
+echo     Å°    Å°
+echo         Å°        Could not boot.
+echo         Å°        Missing resources.
+echo     Å°    Å°       Were collecting some error info for you. (100%) Done.
 echo.       
 echo.
 echo.
@@ -2142,24 +2146,24 @@ goto command
 
 :gallery
 cls
-echo ÛÛÛÛÛ       ²      1= Fish.img
-echo Û    ÛÛÛÛÛ  ²      2= Dirt.img
-echo Û ÛÛÛ    Û  ²      3= Mealworm.img
-echo Û     ÛÛ Û  ²      4= windows.img
-echo ÛÛÛÛÛ    Û  ²
-echo      ÛÛÛÛÛ  ²
-echo             ²
-echo  GALLERY    ²
-echo             ²
-echo             ²
-echo             ²
-echo  e= EXIT    ²
-echo             ±
-echo             ±
-echo             ±
-echo             °
-echo             °
-echo             °
+echo Å°Å°Å°Å°Å°       Ë›      1= Fish.img
+echo Å°    Å°Å°Å°Å°Å°  Ë›      2= Dirt.img
+echo Å° Å°Å°Å°    Å°  Ë›      3= Mealworm.img
+echo Å°     Å°Å° Å°  Ë›      4= windows.img
+echo Å°Å°Å°Å°Å°    Å°  Ë›
+echo      Å°Å°Å°Å°Å°  Ë›
+echo             Ë›
+echo  GALLERY    Ë›
+echo             Ë›
+echo             Ë›
+echo             Ë›
+echo  e= EXIT    Ë›
+echo             Ä…
+echo             Ä…
+echo             Ä…
+echo             Â°
+echo             Â°
+echo             Â°
 echo.
 echo.
 echo.
@@ -2292,28 +2296,28 @@ goto LOGIN
 :notepadjly2018
 echo.
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û Pixel Notepad              Û
-echo Û July 2018 Edition          Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° Pixel Notepad              Å°
+echo Å° July 2018 Edition          Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 4 >nul
 cls
 call PIXDATA\nbj2018.bat
 cls
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û               Notepad                          Û
-echo Û                                                Û
-echo Û             Has stopped.                       Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Info:                                         Û
-echo Û        Input error//unexpected_update          Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û    1= Close         Û      2= Retry            Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°               Notepad                          Å°
+echo Å°                                                Å°
+echo Å°             Has stopped.                       Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Info:                                         Å°
+echo Å°        Input error//unexpected_update          Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°    1= Close         Å°      2= Retry            Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 set /p you=
 if %you%==1 goto command
 if %you%==2 goto notepadjly2018
@@ -2428,9 +2432,9 @@ echo No 'valid' driver
 echo Force Drawing
 ping localhost -n 1 >nul
 ping localhost -n 1 >nul
-echo ÛÛÛÛÛÛ  ÛÛÛÛÛÛÛÛÛÛÛÛÛ ÛÛÛÛ        ÛÛÛÛÛÛÛ  ÛÛÛÛÛÛÛÛÛ    ÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                       Û                  Û                      Û
-echo Û           
+echo Å°Å°Å°Å°Å°Å°  Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å° Å°Å°Å°Å°        Å°Å°Å°Å°Å°Å°Å°  Å°Å°Å°Å°Å°Å°Å°Å°Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°           
 ping localhost -n 1 >nul
 echo Invalid Signing of "drawstarttile.stbt"
 echo Details:
@@ -2459,14 +2463,14 @@ goto badsectorerrormsg
 :update1.10.0
 cls
 cls
-echo      ÛÛÛÛÛÛÛ   Û    Û      Û   ÛÛÛÛÛÛÛÛ   Û
-echo      Û     Û         Û    Û    Û          Û
-echo      Û     Û   Û      Û  Û     Û          Û
-echo      ÛÛÛÛÛÛÛ   Û       ÛÛ      Û          Û
-echo      Û         Û       ÛÛ      ÛÛÛÛÛÛ     Û
-echo      Û         Û      Û  Û     Û          Û
-echo      Û         Û     Û    Û    Û          Û
-echo      Û         Û    Û      Û   ÛÛÛÛÛÛÛÛ   ÛÛÛÛÛÛÛÛ
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°
+echo      Å°     Å°         Å°    Å°    Å°          Å°
+echo      Å°     Å°   Å°      Å°  Å°     Å°          Å°
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°       Å°Å°      Å°          Å°
+echo      Å°         Å°       Å°Å°      Å°Å°Å°Å°Å°Å°     Å°
+echo      Å°         Å°      Å°  Å°     Å°          Å°
+echo      Å°         Å°     Å°    Å°    Å°          Å°
+echo      Å°         Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°Å°Å°Å°Å°Å°Å°Å°
 echo.
 echo                  Setup Is Updating Pixel...
 echo                    Generating User ID...
@@ -2475,14 +2479,14 @@ md C:\pixeldisk
 echo set userid= %random%%unamel%-PC >> C:\PixelE\userid.bat
 :adminpass
 cls
-echo      ÛÛÛÛÛÛÛ   Û    Û      Û   ÛÛÛÛÛÛÛÛ   Û
-echo      Û     Û         Û    Û    Û          Û
-echo      Û     Û   Û      Û  Û     Û          Û
-echo      ÛÛÛÛÛÛÛ   Û       ÛÛ      Û          Û
-echo      Û         Û       ÛÛ      ÛÛÛÛÛÛ     Û
-echo      Û         Û      Û  Û     Û          Û
-echo      Û         Û     Û    Û    Û          Û
-echo      Û         Û    Û      Û   ÛÛÛÛÛÛÛÛ   ÛÛÛÛÛÛÛÛ
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°
+echo      Å°     Å°         Å°    Å°    Å°          Å°
+echo      Å°     Å°   Å°      Å°  Å°     Å°          Å°
+echo      Å°Å°Å°Å°Å°Å°Å°   Å°       Å°Å°      Å°          Å°
+echo      Å°         Å°       Å°Å°      Å°Å°Å°Å°Å°Å°     Å°
+echo      Å°         Å°      Å°  Å°     Å°          Å°
+echo      Å°         Å°     Å°    Å°    Å°          Å°
+echo      Å°         Å°    Å°      Å°   Å°Å°Å°Å°Å°Å°Å°Å°   Å°Å°Å°Å°Å°Å°Å°Å°
 echo.
 echo                  Setup Is Updating Pixel...
 :adminpasssetup
@@ -2602,110 +2606,110 @@ echo . >> C:\PixelE\Drivers\PixelDriversSync.txt
 md C:\PixelE\Temp
 ping localhost -n 3 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Preparing Temporary Files...                  Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û²²²                                             Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Preparing Temporary Files...                  Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°Ë›Ë›Ë›                                             Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Preparing Temporary Files...                  Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û   ²²²                                          Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Preparing Temporary Files...                  Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°   Ë›Ë›Ë›                                          Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Preparing Temporary Files...                  Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û      ²²²                                       Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Preparing Temporary Files...                  Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°      Ë›Ë›Ë›                                       Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Preparing Temporary Files...                  Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û         ²²²                                    Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Preparing Temporary Files...                  Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°         Ë›Ë›Ë›                                    Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 echo Temp >> C:\PixelE\Temp.txt
 echo Temp >> C:\PixelE\PostIns.tmppx
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel Display Driver               Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û            ²²²                                 Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel Display Driver               Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°            Ë›Ë›Ë›                                 Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel Display Driver               Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û               ²²²                              Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel Display Driver               Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°               Ë›Ë›Ë›                              Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û  Needs Access To...                            Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Drivers, OS Core, VHD Settings, Logs, History,Û
-echo Û  Disk, and Files.                              Û
-echo Û                                                Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û          1= Allow       2= Deny                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°  Needs Access To...                            Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Drivers, OS Core, VHD Settings, Logs, History,Å°
+echo Å°  Disk, and Files.                              Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°          1= Allow       2= Deny                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 set /p you=
 
 if %you%==1 goto installdrivers
@@ -2713,110 +2717,110 @@ if %you%==2 echo valid >> C:\pixelE\denydriver.txt
 
 :installdrivers
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel Display Driver               Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                  ²²²                           Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel Display Driver               Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                  Ë›Ë›Ë›                           Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 if exist C:\PixelE\denydriver.txt goto pixerror1
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel Disk Drivers                 Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                     ²²²                        Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel Disk Drivers                 Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                     Ë›Ë›Ë›                        Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel Frame Drivers                Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                        ²²²                     Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel Frame Drivers                Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                        Ë›Ë›Ë›                     Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel MassString Drivers           Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                           ²²²                  Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel MassString Drivers           Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                           Ë›Ë›Ë›                  Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing Pixel Graphics                     Û
-echo Û  Installing Pixel menu Drivers                 Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                              ²²²               Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing Pixel Graphics                     Å°
+echo Å°  Installing Pixel menu Drivers                 Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                              Ë›Ë›Ë›               Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Installing                                    Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                Finalizing...                   Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Installing                                    Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                Finalizing...                   Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 4 >nul
 cls
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  Pixel Drivers Driverset 20 Installer          Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û                                                Û
-echo Û  Restarting                                    Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                Finalizing...                   Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  Pixel Drivers Driverset 20 Installer          Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°                                                Å°
+echo Å°  Restarting                                    Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                Finalizing...                   Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 ping localhost -n 2 >nul
 goto LOADING
 
@@ -2832,10 +2836,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not proceed.
-echo         Û        Driver Failure
-echo     Û    Û       Were collecting some error info for you. (Failed to connect) Done. 
+echo     Å°    Å°
+echo         Å°        Could not proceed.
+echo         Å°        Driver Failure
+echo     Å°    Å°       Were collecting some error info for you. (Failed to connect) Done. 
 echo.
 echo     An Improper Driver was installed, or an error occured during installation.
 echo     Recovery Failed.
@@ -2868,17 +2872,17 @@ echo ===========================================================================
 echo Sign up for Pixel Play and make a User ID card for this PC.
 call C:\PixelE\userid
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  %userid%
-echo Û  [No nickname]                                 
-echo Û  PC username is %unamel%                                              
-echo Û                                                
-echo Û                                                
-echo Û                                                
-echo Û                                                
-echo Û                                                
-echo Û  User card [No ID]                                              
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  %userid%
+echo Å°  [No nickname]                                 
+echo Å°  PC username is %unamel%                                              
+echo Å°                                                
+echo Å°                                                
+echo Å°                                                
+echo Å°                                                
+echo Å°                                                
+echo Å°  User card [No ID]                                              
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo.
 echo Press any key to register.
 pause >nul
@@ -2901,17 +2905,17 @@ echo Pixel Play
 echo ==================================================================================
 echo.
 call C:\PixelE\usercard.bat
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û  %userid%
-echo Û  Nickname is %ppn%                                 
-echo Û  PC username is %unamel%                                              
-echo Û                                                
-echo Û                                                
-echo Û                                                
-echo Û                                                
-echo Û                                                
-echo Û  User card - %ppid%                                              
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°  %userid%
+echo Å°  Nickname is %ppn%                                 
+echo Å°  PC username is %unamel%                                              
+echo Å°                                                
+echo Å°                                                
+echo Å°                                                
+echo Å°                                                
+echo Å°                                                
+echo Å°  User card - %ppid%                                              
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 pause
 cls
 echo Pixel Play
@@ -3016,12 +3020,12 @@ echo    %b71%%b72%%b73%%b74%%b75%%b76%%b77%%b78%%b79%%b80%
 echo    %b81%%b82%%b83%%b84%%b85%%b86%%b87%%b88%%b89%%b90%
 echo    %b91%%b92%%b93%%b94%%b95%%b96%%b97%%b98%%b99%%b100%
 echo.
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍ»  
-echo º 1= Edit     º    
-echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍ¼  
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍ»  
-echo º 2= EXIT     º    
-echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍ¼  
+echo Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÅ¥  
+echo ÅŸ 1= Edit     ÅŸ    
+echo ÄŒÃÃÃÃÃÃÃÃÃÃÃÃÃÅº  
+echo Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÅ¥  
+echo ÅŸ 2= EXIT     ÅŸ    
+echo ÄŒÃÃÃÃÃÃÃÃÃÃÃÃÃÅº  
 set /p you=
 if %you%==1 goto edituser
 if %you%==2 goto qp
@@ -3061,106 +3065,106 @@ if %select% == exit goto useredit
 if %select% == new goto newprof
 if %select% == off goto edituser
 if %select% == save goto save
-if %select% == a1 set b1=Û
-if %select% == b1 set b2=Û
-if %select% == c1 set b3=Û
-if %select% == d1 set b4=Û
-if %select% == e1 set b5=Û
-if %select% == f1 set b6=Û
-if %select% == g1 set b7=Û
-if %select% == h1 set b8=Û
-if %select% == i1 set b9=Û
-if %select% == j1 set b10=Û
-if %select% == a2 set b11=Û
-if %select% == b2 set b12=Û
-if %select% == c2 set b13=Û
-if %select% == d2 set b14=Û
-if %select% == e2 set b15=Û
-if %select% == f2 set b16=Û
-if %select% == g2 set b17=Û
-if %select% == h2 set b18=Û
-if %select% == i2 set b19=Û
-if %select% == j2 set b20=Û
-if %select% == a3 set b21=Û
-if %select% == b3 set b22=Û
-if %select% == c3 set b23=Û
-if %select% == d3 set b24=Û
-if %select% == e3 set b25=Û
-if %select% == f3 set b26=Û
-if %select% == g3 set b27=Û
-if %select% == h3 set b28=Û
-if %select% == i3 set b29=Û
-if %select% == j3 set b30=Û
-if %select% == a4 set b31=Û
-if %select% == b4 set b32=Û
-if %select% == c4 set b33=Û
-if %select% == d4 set b34=Û
-if %select% == e4 set b35=Û
-if %select% == f4 set b36=Û
-if %select% == g4 set b37=Û
-if %select% == h4 set b38=Û
-if %select% == i4 set b39=Û
-if %select% == j4 set b40=Û
-if %select% == a5 set b41=Û
-if %select% == b5 set b42=Û
-if %select% == c5 set b43=Û
-if %select% == d5 set b44=Û
-if %select% == e5 set b45=Û
-if %select% == f5 set b46=Û
-if %select% == g5 set b47=Û
-if %select% == h5 set b48=Û
-if %select% == i5 set b49=Û
-if %select% == j5 set b50=Û
-if %select% == a6 set b51=Û
-if %select% == b6 set b52=Û
-if %select% == c6 set b53=Û
-if %select% == d6 set b54=Û
-if %select% == e6 set b55=Û
-if %select% == f6 set b56=Û
-if %select% == g6 set b57=Û
-if %select% == h6 set b58=Û
-if %select% == i6 set b59=Û
-if %select% == j6 set b60=Û
-if %select% == a7 set b61=Û
-if %select% == b7 set b62=Û
-if %select% == c7 set b63=Û
-if %select% == d7 set b64=Û
-if %select% == e7 set b65=Û
-if %select% == f7 set b66=Û
-if %select% == g7 set b67=Û
-if %select% == h7 set b68=Û
-if %select% == i7 set b69=Û
-if %select% == j7 set b70=Û
-if %select% == a8 set b71=Û
-if %select% == b8 set b72=Û
-if %select% == c8 set b73=Û
-if %select% == d8 set b74=Û
-if %select% == e8 set b75=Û
-if %select% == f8 set b76=Û
-if %select% == g8 set b77=Û
-if %select% == h8 set b78=Û
-if %select% == i8 set b79=Û
-if %select% == j8 set b80=Û
-if %select% == a9 set b81=Û
-if %select% == b9 set b82=Û
-if %select% == c9 set b83=Û
-if %select% == d9 set b84=Û
-if %select% == e9 set b85=Û
-if %select% == f9 set b86=Û
-if %select% == g9 set b87=Û
-if %select% == h9 set b88=Û
-if %select% == i9 set b89=Û
-if %select% == j9 set b90=Û
-if %select% == a10 set b91=Û
-if %select% == b10 set b92=Û
-if %select% == c10 set b93=Û
-if %select% == d10 set b94=Û
-if %select% == e10 set b95=Û
-if %select% == f10 set b96=Û
-if %select% == g10 set b97=Û
-if %select% == h10 set b98=Û
-if %select% == i10 set b99=Û
-if %select% == j10 set b100=Û
+if %select% == a1 set b1=Å°
+if %select% == b1 set b2=Å°
+if %select% == c1 set b3=Å°
+if %select% == d1 set b4=Å°
+if %select% == e1 set b5=Å°
+if %select% == f1 set b6=Å°
+if %select% == g1 set b7=Å°
+if %select% == h1 set b8=Å°
+if %select% == i1 set b9=Å°
+if %select% == j1 set b10=Å°
+if %select% == a2 set b11=Å°
+if %select% == b2 set b12=Å°
+if %select% == c2 set b13=Å°
+if %select% == d2 set b14=Å°
+if %select% == e2 set b15=Å°
+if %select% == f2 set b16=Å°
+if %select% == g2 set b17=Å°
+if %select% == h2 set b18=Å°
+if %select% == i2 set b19=Å°
+if %select% == j2 set b20=Å°
+if %select% == a3 set b21=Å°
+if %select% == b3 set b22=Å°
+if %select% == c3 set b23=Å°
+if %select% == d3 set b24=Å°
+if %select% == e3 set b25=Å°
+if %select% == f3 set b26=Å°
+if %select% == g3 set b27=Å°
+if %select% == h3 set b28=Å°
+if %select% == i3 set b29=Å°
+if %select% == j3 set b30=Å°
+if %select% == a4 set b31=Å°
+if %select% == b4 set b32=Å°
+if %select% == c4 set b33=Å°
+if %select% == d4 set b34=Å°
+if %select% == e4 set b35=Å°
+if %select% == f4 set b36=Å°
+if %select% == g4 set b37=Å°
+if %select% == h4 set b38=Å°
+if %select% == i4 set b39=Å°
+if %select% == j4 set b40=Å°
+if %select% == a5 set b41=Å°
+if %select% == b5 set b42=Å°
+if %select% == c5 set b43=Å°
+if %select% == d5 set b44=Å°
+if %select% == e5 set b45=Å°
+if %select% == f5 set b46=Å°
+if %select% == g5 set b47=Å°
+if %select% == h5 set b48=Å°
+if %select% == i5 set b49=Å°
+if %select% == j5 set b50=Å°
+if %select% == a6 set b51=Å°
+if %select% == b6 set b52=Å°
+if %select% == c6 set b53=Å°
+if %select% == d6 set b54=Å°
+if %select% == e6 set b55=Å°
+if %select% == f6 set b56=Å°
+if %select% == g6 set b57=Å°
+if %select% == h6 set b58=Å°
+if %select% == i6 set b59=Å°
+if %select% == j6 set b60=Å°
+if %select% == a7 set b61=Å°
+if %select% == b7 set b62=Å°
+if %select% == c7 set b63=Å°
+if %select% == d7 set b64=Å°
+if %select% == e7 set b65=Å°
+if %select% == f7 set b66=Å°
+if %select% == g7 set b67=Å°
+if %select% == h7 set b68=Å°
+if %select% == i7 set b69=Å°
+if %select% == j7 set b70=Å°
+if %select% == a8 set b71=Å°
+if %select% == b8 set b72=Å°
+if %select% == c8 set b73=Å°
+if %select% == d8 set b74=Å°
+if %select% == e8 set b75=Å°
+if %select% == f8 set b76=Å°
+if %select% == g8 set b77=Å°
+if %select% == h8 set b78=Å°
+if %select% == i8 set b79=Å°
+if %select% == j8 set b80=Å°
+if %select% == a9 set b81=Å°
+if %select% == b9 set b82=Å°
+if %select% == c9 set b83=Å°
+if %select% == d9 set b84=Å°
+if %select% == e9 set b85=Å°
+if %select% == f9 set b86=Å°
+if %select% == g9 set b87=Å°
+if %select% == h9 set b88=Å°
+if %select% == i9 set b89=Å°
+if %select% == j9 set b90=Å°
+if %select% == a10 set b91=Å°
+if %select% == b10 set b92=Å°
+if %select% == c10 set b93=Å°
+if %select% == d10 set b94=Å°
+if %select% == e10 set b95=Å°
+if %select% == f10 set b96=Å°
+if %select% == g10 set b97=Å°
+if %select% == h10 set b98=Å°
+if %select% == i10 set b99=Å°
+if %select% == j10 set b100=Å°
 
 if %select% == -a1 set b1=.
 if %select% == -b1 set b2=.
@@ -3491,39 +3495,39 @@ echo  3 %b71%%b72%%b73%%b74%%b75%%b76%%b77%%b78%%b79%%b80%
 echo   3%b81%%b82%%b83%%b84%%b85%%b86%%b87%%b88%%b89%%b90%   User logged in:
 echo   %b91%%b9333333333333333333332%3%b93%%b94%%b95%%b96%%b97%%b98%%b99%%b100%   Notachecker
 echo                           NO  Pls N L
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û 1.                    Û 6.               Û 11.                  Û
-echo  3.                    Û 8.               Û 13.                  Û    Û .label      ²²²²²Û
-echo Û 4.                    Û 9.               Û 14.                  Û    Û20.              ²Û
-echo Û 5.                    Û 10.              Û 15.                  Û    Û21.               Û
-echo ÛÛÛÛ ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ    Û27.               Û
-echo Û 16.                   Û[19]              Û[11]                  Û    ÛÛÛÛÛÛÛ          ÛÛÛ
-echo Û 17.                   Û                  Û                      Û
-echo Û 18.                   Û                  Û                      Û
-echo Û 20.                   Û                  Û                      Û
-echo Û 21.                   Û                  Û                      Û    ÛÛÛÛ ÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo ÛÛÛÛÛÛÛÛÛÛÛ ÛÛÛÛÛÛÛÛÛÛÛÛ22.              Û[12]                  Û    ÛÛÛÛÛÛÛÛÛ ÛÛÛ ÛÛÛÛ
-echo Û                       Û 23.              Û                      Û
-echo Û                       Û 24.              Û                      Û     
-echo Û                       Û 25.              Û                      Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                       Û 26.              Û                      Û    Û .label      ²²²²²Û
-echo ÛÛÛÛÛÛÛÛÛÛ ÛÛÛÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ    Û35.              ²Û
-echo Û[28]                   ²[29]              ² 30.                  Û    Û                  Û
-echo Û                       ²                  ² 31.                  Û    Û                  Û
-echo Û                       ²                  ²                      Û    ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û                       ²                  ²                      Û
-echo Û                      ÛÛÛÛÛÛÛÛÛÛ²²²²²²²²²²²²²²²²²²²²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û[32]                   Û[34]              Û[36]                  Û
-echo Û                       Û                  Û                      Û
-echo Û                       Û                  Û                      Û
-echo Û                       Û                  Û                      Û
-echo Û                       Û                  Û                      Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û[37]                                   Û 40.                  Û
-echo Û                       Û                  Û                      Û
-echo Û                       Û                  Û                      Û
-echo Û                       Û                  Û                      Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å° Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° 1.                    Å° 6.               Å° 11.                  Å°
+echo  3.                    Å° 8.               Å° 13.                  Å°    Å° .label      Ë›Ë›Ë›Ë›Ë›Å°
+echo Å° 4.                    Å° 9.               Å° 14.                  Å°    Å°20.              Ë›Å°
+echo Å° 5.                    Å° 10.              Å° 15.                  Å°    Å°21.               Å°
+echo Å°Å°Å°Å° Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°    Å°27.               Å°
+echo Å° 16.                   Å°[19]              Å°[11]                  Å°    Å°Å°Å°Å°Å°Å°Å°          Å°Å°Å°
+echo Å° 17.                   Å°                  Å°                      Å°
+echo Å° 18.                   Å°                  Å°                      Å°
+echo Å° 20.                   Å°                  Å°                      Å°
+echo Å° 21.                   Å°                  Å°                      Å°    Å°Å°Å°Å° Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å° Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°22.              Å°[12]                  Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å° Å°Å°Å° Å°Å°Å°Å°
+echo Å°                       Å° 23.              Å°                      Å°
+echo Å°                       Å° 24.              Å°                      Å°     
+echo Å°                       Å° 25.              Å°                      Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                       Å° 26.              Å°                      Å°    Å° .label      Ë›Ë›Ë›Ë›Ë›Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å° Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°    Å°35.              Ë›Å°
+echo Å°[28]                   Ë›[29]              Ë› 30.                  Å°    Å°                  Å°
+echo Å°                       Ë›                  Ë› 31.                  Å°    Å°                  Å°
+echo Å°                       Ë›                  Ë›                      Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°                       Ë›                  Ë›                      Å°
+echo Å°                      Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°[32]                   Å°[34]              Å°[36]                  Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å°[37]                                   Å° 40.                  Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°                       Å°                  Å°                      Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo NProgram
 echo nota
 echo Failed to load service: panel.xx
@@ -3548,10 +3552,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not proceed.
-echo         Û        The Pixel Data Source Tree was not found.
-echo     Û    Û       Could not locate "pixelINT.xx" (Failed to connect)
+echo     Å°    Å°
+echo         Å°        Could not proceed.
+echo         Å°        The Pixel Data Source Tree was not found.
+echo     Å°    Å°       Could not locate "pixelINT.xx" (Failed to connect)
 echo.
 echo     An Improper Disk was installed, or an error occured to the data.
 echo     Recovery Failed.
@@ -3569,14 +3573,14 @@ cls
 echo (i) Created Partition frame "pix/3"
 echo Installing "Components" to Virtual Partition pix3
 echo.
-echo     pix/1  (Boot)        pix/2              pix/3           pix/4        _ID/-                    °°°°°
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÉÍÍÍÍÍÍÍÍÍÍ»²²²²²²²²²²²²²²²²²²²²²²²²²²       °
-echo º File Mgr  BootPT ºº Pixel Software   ºÛ Unallocated   Ûº Misc     º² Unallocated            ²       ° Pixel Disk
-echo º System CM        ºº Data (Pixel Disk)ºÛ (Pixel Disk)  Ûº          º²                        ²       ° Virtual
-echo º Main Data sys    ºº                  ºÛ               Ûº          º²                        ²       °
-echo º                  ºº Locked           ºÛ Reccomended MBÛº Occupied º²                        ²       ° 5 partitions   
-echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÈÍÍÍÍÍÍÍÍÍÍ¼²²²²²²²²²²²²²²²²²²²²²²²²²²       °     )3 Partitions
-echo                                                                                                   °°°°°     )1 Partition Frame
+echo     pix/1  (Boot)        pix/2              pix/3           pix/4        _ID/-                    Â°Â°Â°Â°Â°
+echo Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÅ¥Ã‰ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÅ¥Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Ã‰ÃÃÃÃÃÃÃÃÃÃÅ¥Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›       Â°
+echo ÅŸ File Mgr  BootPT ÅŸÅŸ Pixel Software   ÅŸÅ° Unallocated   Å°ÅŸ Misc     ÅŸË› Unallocated            Ë›       Â° Pixel Disk
+echo ÅŸ System CM        ÅŸÅŸ Data (Pixel Disk)ÅŸÅ° (Pixel Disk)  Å°ÅŸ          ÅŸË›                        Ë›       Â° Virtual
+echo ÅŸ Main Data sys    ÅŸÅŸ                  ÅŸÅ°               Å°ÅŸ          ÅŸË›                        Ë›       Â°
+echo ÅŸ                  ÅŸÅŸ Locked           ÅŸÅ° Reccomended MBÅ°ÅŸ Occupied ÅŸË›                        Ë›       Â° 5 partitions   
+echo ÄŒÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÅºÄŒÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÅºÅ°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°ÄŒÃÃÃÃÃÃÃÃÃÃÅºË›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›Ë›       Â°     )3 Partitions
+echo                                                                                                   Â°Â°Â°Â°Â°     )1 Partition Frame
 echo                                                                                                             )1 Unallocated
 pause
 echo Generating Partition
@@ -3626,10 +3630,10 @@ echo.
 echo.
 echo.
 echo.
-echo     Û    Û
-echo         Û        Could not proceed.
-echo         Û        A variable refused to send data.
-echo     Û    Û       Could not locate variable "list2462" or file "datacertificate.kR1_"
+echo     Å°    Å°
+echo         Å°        Could not proceed.
+echo         Å°        A variable refused to send data.
+echo     Å°    Å°       Could not locate variable "list2462" or file "datacertificate.kR1_"
 echo.
 echo     The data was unavailable.
 echo     Recovery was successful.
@@ -3647,15 +3651,15 @@ goto bios
 
 :recoveryboot
 (
-echo echo Û From Recovery System                           Û
-echo echo Û [i]   Recovery was executed.                   Û %date%, %time%
-echo echo Û Your device had a critical error, and          Û
-echo echo Û loaded a recovery file.                        Û
-echo echo Û                                                Û
+echo echo Å° From Recovery System                           Å°
+echo echo Å° [i]   Recovery was executed.                   Å° %date%, %time%
+echo echo Å° Your device had a critical error, and          Å°
+echo echo Å° loaded a recovery file.                        Å°
+echo echo Å°                                                Å°
 ) >> C:\PixelE\nf2.bat
 mode con: cols=200 lines=200
 echo                         PIXEL RECOVERY BOOTMANAGER
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 echo.
 echo Last time Pixel was run, an error occured.
 echo This was not fatal, but an issue with the system.
@@ -3670,11 +3674,11 @@ echo Deleting the recovery file...
 del C:\PixelE\fE001.txt
 ping localhost -n 2 >nul
 echo.
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
-echo Û Press any key to...                            Û
-echo Û           Restart the boot cycle               Û
-echo Û                                                Û
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+echo Å° Press any key to...                            Å°
+echo Å°           Restart the boot cycle               Å°
+echo Å°                                                Å°
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
 pause >nul
 goto p1
 
@@ -3686,24 +3690,24 @@ goto command
 echo Starting secondary partition...
 echo.
 start /min sound7.vbs
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ       
-echo Û                                                                 Û       
-echo Û                                                                 Û       
-echo Û       ÛÛÛÛ                                                      Û       
-echo Û      ÛÛÛÛÛÛ                                                     Û       
-echo Û      ÛÛÛÛÛÛ                                                     Û       
-echo Û       ÛÛÛÛ                                                      Û       
-echo Û                                                                 Û       
-echo Û    ÛÛÛÛÛÛÛÛÛÛ        Please enter the administrator password    Û       
-echo Û   ÛÛÛÛÛÛÛÛÛÛÛÛ       to continue the operation.                 Û       
-echo Û   ÛÛÛÛÛÛÛÛÛÛÛÛ                                                  Û       
-echo Û                                                                 Û       
-echo Û                                                                 Û       
-echo Û                                                                 Û       
-echo Û                                                                 Û       
-echo Û        ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ        Û       
-echo Û        Ý 1= Cancel                                     Þ        Û       
-echo ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ       
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°       
+echo Å°                                                                 Å°       
+echo Å°                                                                 Å°       
+echo Å°       Å°Å°Å°Å°                                                      Å°       
+echo Å°      Å°Å°Å°Å°Å°Å°                                                     Å°       
+echo Å°      Å°Å°Å°Å°Å°Å°                                                     Å°       
+echo Å°       Å°Å°Å°Å°                                                      Å°       
+echo Å°                                                                 Å°       
+echo Å°    Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°        Please enter the administrator password    Å°       
+echo Å°   Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°       to continue the operation.                 Å°       
+echo Å°   Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°                                                  Å°       
+echo Å°                                                                 Å°       
+echo Å°                                                                 Å°       
+echo Å°                                                                 Å°       
+echo Å°                                                                 Å°       
+echo Å°        ÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœÃœ        Å°       
+echo Å°        Ã 1= Cancel                                     Å¢        Å°       
+echo Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°       
 set /p you=
 if %you%==1 goto qp
 if %you%==%adminpass% goto extloader_continue_program
@@ -3728,11 +3732,11 @@ goto waitres
 cls
 echo Sending notification...
 (
-echo echo Û From: extloader                                Û
-echo echo Û [i] Test                                       Û %date%, %time%
-echo echo Û This is a test notification from extloader.    Û
-echo echo Û                                                Û
-echo echo Û                                                Û
+echo echo Å° From: extloader                                Å°
+echo echo Å° [i] Test                                       Å° %date%, %time%
+echo echo Å° This is a test notification from extloader.    Å°
+echo echo Å°                                                Å°
+echo echo Å°                                                Å°
 ) >> C:\PixelE\nf1.bat
 ping localhost -n 2 >nul
 goto waitres
@@ -3740,59 +3744,59 @@ goto waitres
 :extloader2
 echo PRESS ANY KEY TO RETURN.
 echo.
-echo.                                               ±
-echo.                                              ± 
-echo.                                             ±  
-echo.                                            ±   
-echo.                                            ±   
-echo.                                           ±    
-echo.                                          ±     
-echo.                                          ±     
-echo.                                         ±      
-echo.                                         ±      
-echo.                                         ±      
-echo.                                        ±       
-echo.                                        ±       
-echo.                                       ±        
-echo.                                       ±        
-echo.                                       ±        
-echo.                    ±                ²±         
-echo.                   ±  ±              ²±         ±         ±
-echo.                   ±  ±              ²±        ±          ±
-echo.                   ±   ±            ²±        ±          ± 
-echo.                   ±   ±²²          ²±       ±           ± 
-echo.                   ±    ± ²         ²±       ±         ±±  
-echo.                   ±    ±  ²        ²±      ±          ±   
-echo.                    ±   ±  ²        ±       ±         ±            ²
-echo.          ±±        ±    ±  ²       ±      ±         ±±         ²²² 
-echo.            ±±  ²    ±   ±   ²      ±      ±        ±±      ²²²²                         ±
-echo.              ±  ²   ±    ±  ²      ±     ±        ± ±    ²²                           ±± 
-echo.               ±  ²   ±  ±±   ²     ±     ±       ±  ±   ²                           ±±   
-echo.                ±±±    ± ±±    ²   ±²    ±       ±  ±  ±±                          ±±     
-echo.                 ±±²   ±  ±±   ²   ±²    ±      ±   ± ±±                         ±±       
-echo.                  ±±²   ±  ±    ²  ±²   ±  ±   ±   ± ²                         ±±         
-echo.                  ± ±    ± ±±    ² ±²   ± ±   ±    ±²                       ±±±           
-echo.                   ±±²   ±  ±    ² ±²  ± ±   ±    ±²                      ±±              
-echo.                    ±±    ± ±±    ²±²  ±±   ±     ±                     ±±                
-echo.                    ± ±   ±  ±    ±²  ± ±   ±    ±                   ±±±                  
-echo.                     ± ±   ± ±±   ±²  ±±   ±    ²±                 ±±      ²²²            
-echo.                      ±±    ± ±±  ±²  ±   ±    ²±                ±±     ²²²               
-echo.                      ± ±   ± ±±  ±² ±   ±    ² ±             ±±±    ²²²                  
-echo.                       ± ±   ±± ±± ² ±  ±    ² ±            ±±    ²²²                     
-echo.                        ± ±  ±±  ± ²±± ±    ²  ±         ±±±   ²²²                        
-echo.                        ± ±   ±± ± ±± ±    ²  ±        ±±   ²²²                           
-echo.                         ± ±  ±± ±±±± ±   ²  ±       ±±  ²²²                              
-echo.                          ± ±  ±± ±²±±   ²  ±     ±±± ²²²                                 
-echo.                           ±±  ±±± ±±   ²  ±    ±± ²²²                                    
-echo.                           ± ±  ±± ±±  ²  ±  ±±±²²²                                       
-echo.                            ±²± ±  ±  ² ±± ±± ²²                                          
-echo.                             ±±± ±±² ²±± ±± ²²                                            
-echo.                              ±± ±±²²±±±± ²²                                              
-echo.                              ±± ±±±±±²²²²                                                
-echo.                             ±  ±±±²²²                                                    
-echo.                            ±   ±±²²                                          
-echo.                            ±    ±±         
-echo.                                 ² ±  
+echo.                                               Ä…
+echo.                                              Ä… 
+echo.                                             Ä…  
+echo.                                            Ä…   
+echo.                                            Ä…   
+echo.                                           Ä…    
+echo.                                          Ä…     
+echo.                                          Ä…     
+echo.                                         Ä…      
+echo.                                         Ä…      
+echo.                                         Ä…      
+echo.                                        Ä…       
+echo.                                        Ä…       
+echo.                                       Ä…        
+echo.                                       Ä…        
+echo.                                       Ä…        
+echo.                    Ä…                Ë›Ä…         
+echo.                   Ä…  Ä…              Ë›Ä…         Ä…         Ä…
+echo.                   Ä…  Ä…              Ë›Ä…        Ä…          Ä…
+echo.                   Ä…   Ä…            Ë›Ä…        Ä…          Ä… 
+echo.                   Ä…   Ä…Ë›Ë›          Ë›Ä…       Ä…           Ä… 
+echo.                   Ä…    Ä… Ë›         Ë›Ä…       Ä…         Ä…Ä…  
+echo.                   Ä…    Ä…  Ë›        Ë›Ä…      Ä…          Ä…   
+echo.                    Ä…   Ä…  Ë›        Ä…       Ä…         Ä…            Ë›
+echo.          Ä…Ä…        Ä…    Ä…  Ë›       Ä…      Ä…         Ä…Ä…         Ë›Ë›Ë› 
+echo.            Ä…Ä…  Ë›    Ä…   Ä…   Ë›      Ä…      Ä…        Ä…Ä…      Ë›Ë›Ë›Ë›                         Ä…
+echo.              Ä…  Ë›   Ä…    Ä…  Ë›      Ä…     Ä…        Ä… Ä…    Ë›Ë›                           Ä…Ä… 
+echo.               Ä…  Ë›   Ä…  Ä…Ä…   Ë›     Ä…     Ä…       Ä…  Ä…   Ë›                           Ä…Ä…   
+echo.                Ä…Ä…Ä…    Ä… Ä…Ä…    Ë›   Ä…Ë›    Ä…       Ä…  Ä…  Ä…Ä…                          Ä…Ä…     
+echo.                 Ä…Ä…Ë›   Ä…  Ä…Ä…   Ë›   Ä…Ë›    Ä…      Ä…   Ä… Ä…Ä…                         Ä…Ä…       
+echo.                  Ä…Ä…Ë›   Ä…  Ä…    Ë›  Ä…Ë›   Ä…  Ä…   Ä…   Ä… Ë›                         Ä…Ä…         
+echo.                  Ä… Ä…    Ä… Ä…Ä…    Ë› Ä…Ë›   Ä… Ä…   Ä…    Ä…Ë›                       Ä…Ä…Ä…           
+echo.                   Ä…Ä…Ë›   Ä…  Ä…    Ë› Ä…Ë›  Ä… Ä…   Ä…    Ä…Ë›                      Ä…Ä…              
+echo.                    Ä…Ä…    Ä… Ä…Ä…    Ë›Ä…Ë›  Ä…Ä…   Ä…     Ä…                     Ä…Ä…                
+echo.                    Ä… Ä…   Ä…  Ä…    Ä…Ë›  Ä… Ä…   Ä…    Ä…                   Ä…Ä…Ä…                  
+echo.                     Ä… Ä…   Ä… Ä…Ä…   Ä…Ë›  Ä…Ä…   Ä…    Ë›Ä…                 Ä…Ä…      Ë›Ë›Ë›            
+echo.                      Ä…Ä…    Ä… Ä…Ä…  Ä…Ë›  Ä…   Ä…    Ë›Ä…                Ä…Ä…     Ë›Ë›Ë›               
+echo.                      Ä… Ä…   Ä… Ä…Ä…  Ä…Ë› Ä…   Ä…    Ë› Ä…             Ä…Ä…Ä…    Ë›Ë›Ë›                  
+echo.                       Ä… Ä…   Ä…Ä… Ä…Ä… Ë› Ä…  Ä…    Ë› Ä…            Ä…Ä…    Ë›Ë›Ë›                     
+echo.                        Ä… Ä…  Ä…Ä…  Ä… Ë›Ä…Ä… Ä…    Ë›  Ä…         Ä…Ä…Ä…   Ë›Ë›Ë›                        
+echo.                        Ä… Ä…   Ä…Ä… Ä… Ä…Ä… Ä…    Ë›  Ä…        Ä…Ä…   Ë›Ë›Ë›                           
+echo.                         Ä… Ä…  Ä…Ä… Ä…Ä…Ä…Ä… Ä…   Ë›  Ä…       Ä…Ä…  Ë›Ë›Ë›                              
+echo.                          Ä… Ä…  Ä…Ä… Ä…Ë›Ä…Ä…   Ë›  Ä…     Ä…Ä…Ä… Ë›Ë›Ë›                                 
+echo.                           Ä…Ä…  Ä…Ä…Ä… Ä…Ä…   Ë›  Ä…    Ä…Ä… Ë›Ë›Ë›                                    
+echo.                           Ä… Ä…  Ä…Ä… Ä…Ä…  Ë›  Ä…  Ä…Ä…Ä…Ë›Ë›Ë›                                       
+echo.                            Ä…Ë›Ä… Ä…  Ä…  Ë› Ä…Ä… Ä…Ä… Ë›Ë›                                          
+echo.                             Ä…Ä…Ä… Ä…Ä…Ë› Ë›Ä…Ä… Ä…Ä… Ë›Ë›                                            
+echo.                              Ä…Ä… Ä…Ä…Ë›Ë›Ä…Ä…Ä…Ä… Ë›Ë›                                              
+echo.                              Ä…Ä… Ä…Ä…Ä…Ä…Ä…Ë›Ë›Ë›Ë›                                                
+echo.                             Ä…  Ä…Ä…Ä…Ë›Ë›Ë›                                                    
+echo.                            Ä…   Ä…Ä…Ë›Ë›                                          
+echo.                            Ä…    Ä…Ä…         
+echo.                                 Ë› Ä…  
 echo. 
 echo. 
 pause
